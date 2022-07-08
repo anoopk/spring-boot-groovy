@@ -1,0 +1,6 @@
+com\baeldung\springwithgroovy\repository\TodoRepository.class
+com\baeldung\springwithgroovy\service\impl\TodoServiceImpl.class
+com\baeldung\springwithgroovy\controller\TodoController.class
+com\baeldung\springwithgroovy\entity\Todo.class
+com\baeldung\springwithgroovy\service\TodoService.class
+com\baeldung\springwithgroovy\SpringBootGroovyApplication.class
